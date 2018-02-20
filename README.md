@@ -4,7 +4,12 @@
 
 ### Project
 
-one thing I should get to grips with is this delicious markup called Markdown
+one | thing | I
+-|-|-
+should | get | to 
+grips | with | is 
+this | delicious | markup 
+called | Markdown |
 
 ## further thoughts
 Cabbages are __patchy__ as 4 as the i can c
